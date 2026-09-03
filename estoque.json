@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Whisky Jack Daniels",
+        "preco": 120.00,
+        "quantidade": 10
+    },
+    {
+        "id": 2,
+        "nome": "Whisky Chivas Regal",
+        "preco": 180.00,
+        "quantidade": 3
+    },
+    {
+        "id": 3,
+        "nome": "Vodka Absolut",
+        "preco": 90.00,
+        "quantidade": 8
+    },
+    {
+        "id": 4,
+        "nome": "Gin Tanqueray",
+        "preco": 110.00,
+        "quantidade": 2
+    },
+    {
+        "id": 5,
+        "nome": "Cerveja Heineken",
+        "preco": 12.00,
+        "quantidade": 20
+    }
+]
